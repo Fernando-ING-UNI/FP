@@ -1,0 +1,28 @@
+// Clase3.cpp : Este archivo contiene la función "main". La ejecución del programa comienza y termina ahí.
+//
+//Bibliotecas
+#include <iostream>
+using namespace std; // 
+/*
+Linea 1 
+*/
+//Comentario 1 //
+int main()
+{
+	//1.Entero (int)
+	int numeroEntero = 42;
+	cout << "Entero :" << numeroEntero << endl; 
+	// Nombre variable//
+	// 2.Entero . corto (short int ) -31768 a 32767 //
+	short int numeroCorto = 32000; 
+	cout << "Entero Corto : " << numeroCorto << endl;
+	// 3. Entero Largo ( long int ) 
+	long int numeroLargo = 5533783605L; 
+	cout << "Entero Largo : " << numeroLargo << endl;
+	unsigned int numeroSinSigno = 255
+
+	unsigned short int numeroCortoSinSigno = -32768 a 32768
+
+	unsigned long  int numeroLargoSinSigno = -9223372036854775808
+
+}
